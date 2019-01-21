@@ -1,0 +1,335 @@
+project,name,ending,ending,sex,race,category,title,soc,employees,hours,wages
+Expo Center,Pompey Construction,May,2018-09-05,Female,Black,Craft Workers,Construction Laborers,47-2061,1,77,1905.75
+Expo Center,Ajay Glass,July,2018-07-03,Male,Black,Laborers,Structural Iron and Steel Workers,47-2221,1,24,696
+Expo Center,Ajay Glass,July,2018-07-03,Male,Black,Laborers,Carpenters,47-2031,1,116,1791.77
+Expo Center,Ajay Glass,April,2018-08-01,Male,Black,Laborers,Structural Iron and Steel Workers,47-2221,1,112,3540
+Expo Center,Ajay Glass,April,2018-08-01,Male,Black,Laborers,Carpenters,47-2031,1,109,1618.71
+Expo Center,Allied Electric,February,2018-08-29,Male,Black,Laborers,Electricians,47-2111,1,8.5,223.81
+Expo Center,Casler Masonry,June,2018-07-06,Male,Black,Laborers,Brickmasons and Blockmasons,47-2021,1,80,1459.04
+Expo Center,Casler Masonry,June,2018-07-06,Male,Black,Craft Workers,Construction Laborers,47-2061,1,56,1355.2
+Expo Center,Casler Masonry,March,2018-08-07,Male,Black,Laborers,Brickmasons and Blockmasons,47-2021,1,136,2545.51
+Expo Center,Casler Masonry,March,2018-08-07,Male,Black,Craft Workers,Construction Laborers,47-2061,1,141.5,3607.32
+Expo Center,Casler Masonry,March,2018-09-06,Male,Black,Laborers,Brickmasons and Blockmasons,47-2021,1,40,748.68
+Expo Center,Casler Masonry,March,2018-09-06,Male,Black,Laborers,Carpenters,47-2031,1,2,56
+Expo Center,Casler Masonry,March,2018-09-06,Male,Black,Craft Workers,Construction Laborers,47-2061,1,38.5,959.06
+Expo Center,Christina Steel,April,2018-05-08,Male,Black,Laborers,Structural Iron and Steel Workers,47-2221,1,211,6815
+Expo Center,Christina Steel,January,2018-04-11,Male,Black,Laborers,Structural Iron and Steel Workers,47-2221,1,68,2262
+Expo Center,DJ Rossetti,June,2018-05-06,Male,Black,Craft Workers,Construction Laborers,47-2061,1,8,NA
+Expo Center,DJ Rossetti,May,2018-05-04,Male,Black,Craft Workers,Construction Laborers,47-2061,1,17.5,NA
+Expo Center,DJ Rossetti,May,2018-07-04,Male,Black,Craft Workers,Construction Laborers,47-2061,1,45,NA
+Expo Center,DJ Rossetti,May,NA,Male,Black,Craft Workers,Construction Laborers,47-2061,1,8,NA
+Expo Center,Smith Contractors,May,2018-08-04,Male,Black,Laborers,Drywall and Ceiling Tile Installers,47-8081,1,63,2986.02
+Expo Center,Smith Contractors,May,2018-06-09,Male,Black,Laborers,Drywall and Ceiling Tile Installers,47-8081,1,90,3406.1800000000003
+Expo Center,Smith Contractors,May,2018-05-31,Male,Black,Laborers,Drywall and Ceiling Tile Installers,47-8081,1,65.5,2993.4500000000003
+Expo Center,Martin-Zombek,May,2018-06-06,Male,Black,Laborers,Drywall and Ceiling Tile Installers,47-2081,7,852,17609.19
+Expo Center,Martin-Zombek,May,2018-07-06,Male,Black,Laborers,Drywall and Ceiling Tile Installers,47-2081,4,572.25,11143.29
+Expo Center,Martin-Zombek,May,2018-05-03,Male,Black,Laborers,Drywall and Ceiling Tile Installers,47-2081,3,255,5654.9
+Expo Center,Martin-Zombek,May,2018-08-04,Male,Black,Laborers,Drywall and Ceiling Tile Installers,47-2081,3,315.4,5372.39
+Expo Center,Martin-Zombek,May,2018-09-08,Male,Black,Laborers,Drywall and Ceiling Tile Installers,47-2081,1,37,513.56
+Expo Center,Pompey Construction,May,2018-08-02,Male,Black,Craft Workers,Construction Laborers,47-2061,4,216,5763.75
+Expo Center,Pompey Construction,May,2018-09-05,Male,Black,Craft Workers,Construction Laborers,47-2061,1,80,1980
+Expo Center,Pompey Construction,May,2018-09-05,Male,Black,Laborers,Carpenters,47-2031,1,222,7090.13
+Expo Center,Steve General,May,2018-07-07,Male,Black,Laborers,Structural Iron and Steel Workers,47-2221,1,183.5,5676.75
+Expo Center,Steve General,May,2018-07-07,Male,Black,Laborers,Structural Iron and Steel Workers,47-2221,1,24,696
+Expo Center,Structural Services,May,2018-07-07,Male,Black,Craft Workers,Construction Laborers,47-2061,1,42,1040.6
+Expo Center,Structural Services,May,2018-08-28,Male,Black,Craft Workers,Construction Laborers,47-2061,1,38,952.88
+Expo Center,Christina Steel,May,2018-06-08,Male,Black,Laborers,Structural Iron and Steel Workers,47-2221,1,114,3451
+Expo Center,Titan Roofing,May,2018-07-03,Male,Black,Laborers,Roofers,47-2181,2,101.5,1677.51
+Expo Center,Titan Roofing,May,2018-08-28,Male,Black,Craft Workers,Helpers--Roofers,47-2181,2,156.5,3360.53
+Expo Center,Titan Roofing,May,2018-09-01,Male,Black,Laborers,Roofers,47-2181,1,169,3174.33
+Expo Center,Titan Steel,May,2018-09-12,Male,Black,Laborers,Structural Iron and Steel Workers,47-2221,1,8,236
+Expo Center,XCL Construction,May,2018-06-02,Male,Black,Laborers,Carpenters,NA,3,364,NA
+Expo Center,XCL Construction,May,2018-06-30,Male,Black,Laborers,Carpenters,NA,2,234,NA
+Expo Center,XCL Construction,May,2018-08-02,Male,Black,Laborers,Carpenters,NA,4,115,NA
+Expo Center,XCL Construction,May,2018-05-01,Male,Black,Laborers,Carpenters,NA,3,134,NA
+Expo Center,Casler Masonry,May,2018-07-06,Male,Black,Laborers,Brickmasons and Blockmasons,47-2021,1,104,1896.76
+Expo Center,Casler Masonry,May,2018-07-06,Male,Black,Craft Workers,Construction Laborers,47-2061,1,189,4677.75
+Expo Center,Pompey Construction,May,2018-07-06,Male,Black,Craft Workers,Construction Laborers,47-2061,1,82,2029.5
+Expo Center,Martin-Zombek,May,2018-06-06,Female,Hispanic,Laborers,Drywall and Ceiling Tile Installers,47-2081,1,250,7699.73
+Expo Center,Martin-Zombek,May,2018-07-06,Female,Hispanic,Laborers,Drywall and Ceiling Tile Installers,47-2081,1,193.25,5870.87
+Expo Center,Martin-Zombek,May,2018-05-03,Female,Hispanic,Laborers,Drywall and Ceiling Tile Installers,47-2081,1,146,4364.55
+Expo Center,Martin-Zombek,May,2018-08-04,Female,Hispanic,Laborers,Drywall and Ceiling Tile Installers,47-2081,1,178.02,5427.76
+Expo Center,Martin-Zombek,May,2018-09-08,Female,Hispanic,Laborers,Drywall and Ceiling Tile Installers,47-2081,1,135.85,3909.97
+Expo Center,Christina Steel,April,2018-05-08,Male,Hispanic,Laborers,Structural Iron and Steel Workers,47-2221,1,30,957
+Expo Center,Christina Steel,January,2018-04-11,Male,Hispanic,Laborers,Structural Iron and Steel Workers,47-2221,1,184,5959
+Expo Center,Ferraro Pile & Shoring,May,2018-02-11,Male,Hispanic,Laborers,Operating Engineers and Other Construction Equipment Operators,47-2073,1,16.5,NA
+Expo Center,JJP Slipforming,May,2018-08-16,Male,Hispanic,Laborers,Cement Masons and Concrete Finishers,47-2051,1,86,3518.24
+Expo Center,Martin-Zombek,May,2018-06-06,Male,Hispanic,Laborers,Drywall and Ceiling Tile Installers,47-2081,8,1326.5,37158.5
+Expo Center,Martin-Zombek,May,2018-07-06,Male,Hispanic,Laborers,Drywall and Ceiling Tile Installers,47-2081,8,1080.9,29560.22
+Expo Center,Martin-Zombek,May,2018-05-03,Male,Hispanic,Laborers,Drywall and Ceiling Tile Installers,47-2081,6,407.75,11642.39
+Expo Center,Martin-Zombek,May,2018-08-04,Male,Hispanic,Laborers,Drywall and Ceiling Tile Installers,47-2081,6,765.29,21665.63
+Expo Center,Martin-Zombek,May,2018-09-08,Male,Hispanic,Laborers,Drywall and Ceiling Tile Installers,47-2081,4,217.75,5933.75
+Expo Center,Structural Services,May,2018-03-31,Male,Hispanic,Craft Workers,Construction Laborers,47-2061,2,387,10430.2
+Expo Center,Structural Services,May,2018-03-31,Male,Hispanic,Laborers,Carpenters,47-2031,1,20,603.9
+Expo Center,Structural Services,May,2018-08-28,Male,Hispanic,Craft Workers,Construction Laborers,47-2061,1,48,1161.6
+Expo Center,XCL Construction,May,2018-06-02,Male,Hispanic,Laborers,Carpenters,NA,1,65.5,NA
+Expo Center,XCL Construction,May,2018-08-02,Male,Hispanic,Laborers,Carpenters,NA,1,8,NA
+Expo Center,XCL Construction,May,2018-08-28,Male,Hispanic,Laborers,Carpenters,NA,1,60,NA
+Expo Center,XCL Construction,May,2018-05-01,Male,Hispanic,Laborers,Carpenters,NA,1,8,NA
+Expo Center,Pompey Construction,May,2018-07-06,Male,Hispanic,Craft Workers,Construction Laborers,47-2061,1,16,396
+Expo Center,Allied Electric,February,2018-08-29,Male,Native,Laborers,Electricians,47-2111,1,15.5,286.88
+Expo Center,Christina Steel,April,2018-05-08,Male,Native,Laborers,Structural Iron and Steel Workers,47-2221,6,1269,38218.5
+Expo Center,Christina Steel,January,2018-04-11,Male,Native,Laborers,Structural Iron and Steel Workers,47-2221,7,495,16066
+Expo Center,EJ Construction,May,2018-03-01,Male,Native,Laborers,Reinforcing Iron and Rebar Workers,47-2171,1,52,1664
+Expo Center,EJ Construction,May,2018-07-10,Male,Native,Laborers,Reinforcing Iron and Rebar Workers,47-2171,1,6,192
+Expo Center,EJ Construction,May,2018-08-01,Male,Native,Laborers,Reinforcing Iron and Rebar Workers,47-2171,1,6,177
+Expo Center,EJ Construction,May,2018-02-01,Male,Native,Laborers,Reinforcing Iron and Rebar Workers,47-2171,1,110,3816
+Expo Center,Ferraro Pile & Shoring,May,2018-02-11,Male,Native,Laborers,Pile-Driver Operators,NA,2,69,NA
+Expo Center,Ferraro Pile & Shoring,May,2018-02-11,Male,Native,Laborers,Pile-Driver Operators,NA,3,486,NA
+Expo Center,Danforth Company,May,2018-05-03,Male,Native,Laborers,"Plumbers, Pipefitters, and Steamfitters",47-2152,2,117,2466
+Expo Center,Danforth Company,May,2018-07-10,Male,Native,Laborers,"Plumbers, Pipefitters, and Steamfitters",47-2152,2,117,2466
+Expo Center,Kim Industries,May,2018-08-14,Male,Native,Laborers,Sheet Metal Workers,47-2211,1,75,2115.75
+Expo Center,Kim Industries,May,2018-08-14,Male,Native,Laborers,Sheet Metal Workers,47-2211,1,203,5726.63
+Expo Center,KSP Painting,May,2018-08-01,Male,Native,Laborers,"Painters, Construction and Maintenance",47-2141,1,136,NA
+Expo Center,KSP Painting,May,2018-09-06,Male,Native,Laborers,"Painters, Construction and Maintenance",47-2141,1,128,NA
+Expo Center,Martin-Zombek,May,2018-06-06,Male,Native,Laborers,Drywall and Ceiling Tile Installers,47-2081,3,132.75,3488.48
+Expo Center,Martin-Zombek,May,2018-07-06,Male,Native,Laborers,Drywall and Ceiling Tile Installers,47-2081,1,8.5,240.19
+Expo Center,Ridley Electric,May,2018-03-06,Male,Native,Laborers,Electricians,47-2111,1,166,6210.76
+Expo Center,Ridley Electric,May,2018-04-04,Male,Native,Laborers,Electricians,47-2111,1,157,5788.13
+Expo Center,Ridley Electric,May,2018-05-02,Male,Native,Laborers,Electricians,47-2111,1,184,7928
+Expo Center,Ridley Electric,May,2018-07-10,Male,Native,Laborers,Electricians,47-2111,2,369,15998.55
+Expo Center,Ridley Electric,May,2018-08-07,Male,Native,Laborers,Electricians,47-2111,2,484,22978.55
+Expo Center,Ridley Electric,May,2018-02-08,Male,Native,Laborers,Electricians,47-2111,1,106,4079.25
+Expo Center,Steve General,May,2018-07-07,Male,Native,Laborers,Glaziers,NA,1,194,6235
+Expo Center,Steve General,May,2018-07-07,Male,Native,Laborers,Glaziers,NA,1,201,5699.5
+Expo Center,Structural Services,May,2018-03-31,Male,Native,Laborers,Carpenters,47-2031,2,223.5,6814.52
+Expo Center,Christina Steel,May,2018-06-08,Male,Native,Laborers,Structural Iron and Steel Workers,47-2221,6,281,7987
+Expo Center,Titan Steel,May,2018-08-03,Male,Native,Laborers,Structural Iron and Steel Workers,47-2221,2,40,968
+Expo Center,Titan Steel,May,2018-08-07,Male,Native,Laborers,Structural Iron and Steel Workers,47-2221,2,72,2184
+Expo Center,Titan Steel,May,2018-09-12,Male,Native,Laborers,Structural Iron and Steel Workers,47-2221,4,72,1576
+Expo Center,Ridley Electric,May,2018-06-13,Male,Native,Laborers,Electricians,47-2111,2,348,15166
+Expo Center,Danforth Company,May,2018-05-03,Female,White,Laborers,"Plumbers, Pipefitters, and Steamfitters",47-2152,3,426.5,27873.16
+Expo Center,Danforth Company,May,2018-05-03,Female,White,Laborers,"Plumbers, Pipefitters, and Steamfitters",47-2152,2,221,NA
+Expo Center,Danforth Company,May,2018-08-09,Female,White,Laborers,"Plumbers, Pipefitters, and Steamfitters",47-2152,3,141,4143
+Expo Center,Danforth Company,May,2018-09-12,Female,White,Laborers,"Plumbers, Pipefitters, and Steamfitters",47-2152,4,216,5918
+Expo Center,Danforth Company,May,2018-07-10,Female,White,Laborers,"Plumbers, Pipefitters, and Steamfitters",47-2152,2,312,10854.91
+Expo Center,Martin-Zombek,May,2018-06-06,Female,White,Laborers,Drywall and Ceiling Tile Installers,47-2081,4,516.5,12203.09
+Expo Center,Martin-Zombek,May,2018-07-06,Female,White,Laborers,Drywall and Ceiling Tile Installers,47-2081,4,645.65,15274.16
+Expo Center,Martin-Zombek,May,2018-05-03,Female,White,Laborers,Drywall and Ceiling Tile Installers,47-2081,1,147,3123.25
+Expo Center,Martin-Zombek,May,2018-08-04,Female,White,Laborers,Drywall and Ceiling Tile Installers,47-2081,4,542.94,13521.82
+Expo Center,Martin-Zombek,May,2018-09-08,Female,White,Laborers,Drywall and Ceiling Tile Installers,47-2081,3,197.4,4200.49
+Expo Center,Pompey Construction,May,2018-08-02,Female,White,Craft Workers,Construction Laborers,47-2061,1,48,1188
+Expo Center,Pompey Construction,May,2018-09-05,Female,White,Craft Workers,Construction Laborers,47-2061,1,195,5135.63
+Expo Center,Ridley Electric,May,2018-03-06,Female,White,Laborers,Electricians,47-2111,1,141,3695.13
+Expo Center,Ridley Electric,May,2018-04-04,Female,White,Laborers,Electricians,47-2111,1,124,3193
+Expo Center,Ridley Electric,May,2018-05-02,Female,White,Laborers,Electricians,47-2111,2,162,4109
+Expo Center,Ridley Electric,May,2018-07-10,Female,White,Laborers,Electricians,47-2111,1,168,4860.23
+Expo Center,Ridley Electric,May,2018-08-07,Female,White,Laborers,Electricians,47-2111,1,224.5,7068.25
+Expo Center,Ridley Electric,May,2018-02-08,Female,White,Laborers,Electricians,47-2111,1,138,3682.25
+Expo Center,Robert Law,May,2018-08-28,Female,White,Administrative,"Bookkeeping, Accounting, and Auditing Clerks",43-3031,1,1,34.38
+Expo Center,Robert Law,May,2018-08-28,Female,White,Administrative,Payroll and Timekeeping Clerks,43-3051,1,1,22
+Expo Center,Structural Services,May,2018-03-31,Female,White,Laborers,Carpenters,47-2031,1,40,1207.8
+Expo Center,Structural Services,May,2018-02-10,Female,White,Laborers,Operating Engineers and Other Construction Equipment Operators,47-2073,1,24,884.16
+Expo Center,Structural Services,May,2018-07-21,Female,White,Laborers,Operating Engineers and Other Construction Equipment Operators,47-2073,1,154,6299.64
+Expo Center,Structural Services,May,2018-08-28,Female,White,Laborers,Operating Engineers and Other Construction Equipment Operators,47-2073,1,225.5,9719.43
+Expo Center,Ridley Electric,May,2018-06-13,Female,White,Laborers,Electricians,47-2111,1,206,6047
+Expo Center,Ajay Glass,June,2018-05-11,Male,White,Laborers,Glaziers,47-2121,7,831.5,29746.54
+Expo Center,Ajay Glass,June,2018-05-11,Male,White,Laborers,Structural Iron and Steel Workers,47-2221,1,188.5,6893.5
+Expo Center,Ajay Glass,July,2018-07-03,Male,White,Laborers,Glaziers,47-2121,20,1935,70009.99
+Expo Center,Ajay Glass,July,2018-07-03,Male,White,Laborers,Structural Iron and Steel Workers,47-2221,15,1171.5,38343.88
+Expo Center,Ajay Glass,July,2018-07-03,Male,White,Laborers,Carpenters,47-2031,2,239.5,7555.62
+Expo Center,Ajay Glass,April,2018-08-01,Male,White,Laborers,Glaziers,47-2121,14,2063.5,70763.03
+Expo Center,Ajay Glass,April,2018-08-01,Male,White,Laborers,Structural Iron and Steel Workers,47-2221,18,2409,77415.74
+Expo Center,Ajay Glass,April,2018-08-01,Male,White,Laborers,Carpenters,47-2031,2,309,9436.47
+Expo Center,Ajay Glass,May,2018-08-06,Male,White,Laborers,Glaziers,47-2121,11,574.5,17699.68
+Expo Center,Ajay Glass,May,2018-08-06,Male,White,Laborers,Structural Iron and Steel Workers,47-2221,11,920,27998.81
+Expo Center,Ajay Glass,July,2018-05-11,Male,White,Laborers,Glaziers,47-2121,6,98,3215.06
+Expo Center,Ajay Glass,July,2018-05-11,Male,White,Laborers,Structural Iron and Steel Workers,47-2221,4,154,5414
+Expo Center,All Ways Concrete,June,2018-05-08,Male,White,Laborers,Operating Engineers and Other Construction Equipment Operators,47-2073,1,15.5,941.32
+Expo Center,All Ways Concrete,August,2018-02-09,Male,White,Laborers,Operating Engineers and Other Construction Equipment Operators,47-2073,4,65,3643.71
+Expo Center,Allied Electric,May,2018-08-29,Male,White,Laborers,First-Line Supervisors of Construction Trades and Extraction Workers,NA,1,23.5,987.25
+Expo Center,Allied Electric,May,2018-08-29,Male,White,Laborers,Electricians,47-2111,1,23.5,838.73
+Expo Center,Allied Electric,June,2018-08-29,Male,White,Laborers,First-Line Supervisors of Construction Trades and Extraction Workers,NA,1,124,5146
+Expo Center,Allied Electric,June,2018-08-29,Male,White,Laborers,Electricians,47-2111,3,216,7437.7
+Expo Center,Allied Electric,February,2018-08-29,Male,White,Laborers,First-Line Supervisors of Construction Trades and Extraction Workers,NA,1,45.5,2090.8
+Expo Center,Allied Electric,February,2018-08-29,Male,White,Laborers,Electricians,47-2111,4,74,1759.64
+Expo Center,Casler Masonry,June,2018-07-06,Male,White,Laborers,First-Line Supervisors of Construction Trades and Extraction Workers,47-1011,1,156,7900
+Expo Center,Casler Masonry,June,2018-07-06,Male,White,Laborers,Brickmasons and Blockmasons,47-2021,11,999.5,34347.45
+Expo Center,Casler Masonry,June,2018-07-06,Male,White,Laborers,Operating Engineers and Other Construction Equipment Operators,47-2073,2,98,4410
+Expo Center,Casler Masonry,June,2018-07-06,Male,White,Laborers,Carpenters,47-2031,4,59,1960
+Expo Center,Casler Masonry,June,2018-07-06,Male,White,Craft Workers,Construction Laborers,47-2061,6,527.5,13265.05
+Expo Center,Casler Masonry,March,2018-08-07,Male,White,Laborers,First-Line Supervisors of Construction Trades and Extraction Workers,47-1011,1,163,7582.5
+Expo Center,Casler Masonry,March,2018-08-07,Male,White,Laborers,Brickmasons and Blockmasons,47-2021,11,1305.5,44355.56
+Expo Center,Casler Masonry,March,2018-08-07,Male,White,Laborers,Operating Engineers and Other Construction Equipment Operators,47-2073,2,139,6192
+Expo Center,Casler Masonry,March,2018-08-07,Male,White,Laborers,Carpenters,47-2031,3,52.5,1631
+Expo Center,Casler Masonry,March,2018-08-07,Male,White,Craft Workers,Construction Laborers,47-2061,5,520,13402.15
+Expo Center,Casler Masonry,March,2018-09-06,Male,White,Laborers,First-Line Supervisors of Construction Trades and Extraction Workers,47-1011,1,49,2227.5
+Expo Center,Casler Masonry,March,2018-09-06,Male,White,Laborers,Brickmasons and Blockmasons,47-2021,3,92.5,3147.77
+Expo Center,Casler Masonry,March,2018-09-06,Male,White,Laborers,Operating Engineers and Other Construction Equipment Operators,47-2073,1,18,774
+Expo Center,Casler Masonry,March,2018-09-06,Male,White,Laborers,Carpenters,47-2031,1,3,84
+Expo Center,Casler Masonry,March,2018-09-06,Male,White,Craft Workers,Construction Laborers,47-2061,1,19.5,488.81
+Expo Center,Casler Masonry,July,2018-04-06,Male,White,Laborers,First-Line Supervisors of Construction Trades and Extraction Workers,47-1011,1,89.5,4061.25
+Expo Center,Casler Masonry,July,2018-04-06,Male,White,Laborers,Brickmasons and Blockmasons,47-2021,2,79.5,2661.09
+Expo Center,Casler Masonry,July,2018-04-06,Male,White,Laborers,Operating Engineers and Other Construction Equipment Operators,47-2073,1,55,2310
+Expo Center,Casler Masonry,July,2018-04-06,Male,White,Laborers,Carpenters,47-2031,2,50,1400
+Expo Center,Casler Masonry,July,2018-04-06,Male,White,Craft Workers,Construction Laborers,47-2061,2,156,3817.55
+Expo Center,Christina Steel,April,2018-05-08,Male,White,Laborers,Structural Iron and Steel Workers,47-2221,13,2657,84948.25
+Expo Center,Christina Steel,April,2018-05-08,Male,White,Laborers,First-Line Supervisors of Construction Trades and Extraction Workers,47-1011,4,986,35619.75
+Expo Center,Christina Steel,April,2018-05-08,Male,White,Laborers,Crane and Tower Operators,53-7021,8,797,33984.82
+Expo Center,Christina Steel,January,2018-04-11,Male,White,Laborers,Structural Iron and Steel Workers,47-2221,17,2659,87210.25
+Expo Center,Christina Steel,January,2018-04-11,Male,White,Laborers,First-Line Supervisors of Construction Trades and Extraction Workers,47-1011,4,850,31540.5
+Expo Center,Christina Steel,January,2018-04-11,Male,White,Laborers,Crane and Tower Operators,53-7021,6,611,27594.29
+Expo Center,Clark Rigging,May,2018-06-20,Male,White,Laborers,Crane and Tower Operators,NA,1,68,2556.12
+Expo Center,DJ Rossetti,June,2018-05-06,Male,White,Laborers,Cement Masons and Concrete Finishers,47-2051,5,54,NA
+Expo Center,DJ Rossetti,June,2018-05-06,Male,White,Craft Workers,Construction Laborers,47-2061,3,24,NA
+Expo Center,DJ Rossetti,May,2018-05-04,Male,White,Laborers,Cement Masons and Concrete Finishers,47-2051,9,160,NA
+Expo Center,DJ Rossetti,May,2018-05-04,Male,White,Craft Workers,Construction Laborers,47-2061,7,84.5,NA
+Expo Center,DJ Rossetti,May,2018-07-04,Male,White,Laborers,Cement Masons and Concrete Finishers,47-2051,13,683,NA
+Expo Center,DJ Rossetti,May,2018-07-04,Male,White,Craft Workers,Construction Laborers,47-2061,12,347.5,NA
+Expo Center,DJ Rossetti,May,2018-07-31,Male,White,Laborers,Cement Masons and Concrete Finishers,47-2051,9,172,NA
+Expo Center,DJ Rossetti,May,2018-07-31,Male,White,Craft Workers,Construction Laborers,47-2061,7,116.5,NA
+Expo Center,DJ Rossetti,May,2018-09-06,Male,White,Laborers,Cement Masons and Concrete Finishers,47-2051,1,11,NA
+Expo Center,DJ Rossetti,May,2018-09-06,Male,White,Craft Workers,Construction Laborers,47-2061,1,8,NA
+Expo Center,DJ Rossetti,May,NA,Male,White,Laborers,Cement Masons and Concrete Finishers,47-2051,6,53,NA
+Expo Center,DJ Rossetti,May,NA,Male,White,Craft Workers,Construction Laborers,47-2061,5,40,NA
+Expo Center,Smith Contractors,May,2018-08-04,Male,White,Laborers,Drywall and Ceiling Tile Installers,47-8081,2,199,6121.99
+Expo Center,Smith Contractors,May,2018-06-09,Male,White,Laborers,Drywall and Ceiling Tile Installers,47-8081,2,213,4248.93
+Expo Center,Smith Contractors,May,2018-07-04,Male,White,Laborers,Drywall and Ceiling Tile Installers,47-8081,2,104,3154.3
+Expo Center,Smith Contractors,May,2018-05-31,Male,White,Laborers,Drywall and Ceiling Tile Installers,47-8081,2,180.5,5467.5599999999995
+Expo Center,EJ Construction,May,2018-03-01,Male,White,Laborers,Reinforcing Iron and Rebar Workers,47-2171,5,394,12832
+Expo Center,EJ Construction,May,2018-04-03,Male,White,Laborers,Reinforcing Iron and Rebar Workers,47-2171,4,52,1640
+Expo Center,EJ Construction,May,2018-05-01,Male,White,Laborers,Reinforcing Iron and Rebar Workers,47-2171,3,55,1792
+Expo Center,EJ Construction,May,2018-05-31,Male,White,Laborers,Reinforcing Iron and Rebar Workers,47-2171,2,32,976
+Expo Center,EJ Construction,May,2018-07-10,Male,White,Laborers,Reinforcing Iron and Rebar Workers,47-2171,4,54,1736
+Expo Center,EJ Construction,May,2018-08-01,Male,White,Laborers,Reinforcing Iron and Rebar Workers,47-2171,3,63,2308.5
+Expo Center,EJ Construction,May,2018-09-06,Male,White,Laborers,Reinforcing Iron and Rebar Workers,47-2171,4,48,1549
+Expo Center,EJ Construction,May,2018-02-01,Male,White,Laborers,Reinforcing Iron and Rebar Workers,47-2171,6,522,17448
+Expo Center,EM Pfaff & Son,May,2018-09-01,Male,White,Laborers,Cabinetmakers and Bench Carpenters,51-7011,2,21,976.5
+Expo Center,EM Pfaff & Son,May,2018-08-01,Male,White,Laborers,Cabinetmakers and Bench Carpenters,51-7011,2,49,2279.6
+Expo Center,Ferraro Pile & Shoring,May,2018-02-11,Male,White,Laborers,Pile-Driver Operators,NA,3,77,NA
+Expo Center,Ferraro Pile & Shoring,May,2018-02-11,Male,White,Laborers,Operating Engineers and Other Construction Equipment Operators,47-2073,3,121.5,NA
+Expo Center,Ferraro Pile & Shoring,May,2018-02-11,Male,White,Laborers,Pile-Driver Operators,NA,11,755.5,NA
+Expo Center,Ferraro Pile & Shoring,May,2018-02-11,Male,White,Laborers,Operating Engineers and Other Construction Equipment Operators,47-2073,4,490,NA
+Expo Center,Glenn Davis,May,2018-07-21,Male,White,Laborers,"Construction and Related Workers, All Other",NA,2,20,827
+Expo Center,JJP Slipforming,May,2018-08-16,Male,White,Craft Workers,Construction Laborers,NA,11,520,20367.6
+Expo Center,JJP Slipforming,May,2018-08-16,Male,White,Laborers,Cement Masons and Concrete Finishers,47-2051,5,189,8075.95
+Expo Center,JJP Slipforming,May,2018-08-16,Male,White,Laborers,First-Line Supervisors of Construction Trades and Extraction Workers,47-1011,2,30,1699.35
+Expo Center,Danforth Company,May,2018-05-03,Male,White,Laborers,"Plumbers, Pipefitters, and Steamfitters",47-2152,26,3912,132611
+Expo Center,Danforth Company,May,2018-04-07,Male,White,Laborers,"Plumbers, Pipefitters, and Steamfitters",47-2152,4,418,13215.85
+Expo Center,Danforth Company,May,2018-05-03,Male,White,Laborers,"Plumbers, Pipefitters, and Steamfitters",47-2152,18,2350,77640
+Expo Center,Danforth Company,May,2018-08-09,Male,White,Laborers,"Plumbers, Pipefitters, and Steamfitters",47-2152,24,2082.5,72292.83
+Expo Center,Danforth Company,May,2018-09-12,Male,White,Laborers,"Plumbers, Pipefitters, and Steamfitters",47-2152,23,1735,66903
+Expo Center,Danforth Company,May,2018-03-02,Male,White,Laborers,"Plumbers, Pipefitters, and Steamfitters",47-2152,353,4,10657
+Expo Center,Danforth Company,May,2018-07-10,Male,White,Laborers,"Plumbers, Pipefitters, and Steamfitters",47-2152,25,4783,155091.41
+Expo Center,Danforth Company,May,2018-02-08,Male,White,Laborers,"Plumbers, Pipefitters, and Steamfitters",47-2152,2,18.5,696.38
+Expo Center,Kim Industries,May,2018-08-14,Male,White,Laborers,"Insulation Workers, Mechanical",NA,7,541,16014.74
+Expo Center,Kim Industries,May,2018-08-14,Male,White,Laborers,Sheet Metal Workers,47-2211,1,151,4259.71
+Expo Center,Kim Industries,May,2018-08-14,Male,White,Laborers,"Insulation Workers, Mechanical",NA,6,515,15490.73
+Expo Center,Kim Industries,May,2018-08-14,Male,White,Laborers,"Insulation Workers, Mechanical",NA,4,90,2612.41
+Expo Center,Kim Industries,May,2018-08-14,Male,White,Laborers,Sheet Metal Workers,47-2211,1,200.5,5656.11
+Expo Center,KSP Painting,May,2018-07-04,Male,White,Laborers,"Painters, Construction and Maintenance",47-2141,4,432,NA
+Expo Center,KSP Painting,May,2018-08-01,Male,White,Laborers,"Painters, Construction and Maintenance",47-2141,6,463,NA
+Expo Center,KSP Painting,May,2018-09-06,Male,White,Laborers,"Painters, Construction and Maintenance",47-2141,7,634,NA
+Expo Center,KSP Painting,May,2018-07-04,Male,White,Laborers,"Painters, Construction and Maintenance",47-2141,5,465,NA
+Expo Center,Land Pro,May,NA,Male,White,Executives,Chief Executives,NA,1,2,NA
+Expo Center,Land Pro,May,NA,Male,White,Operatives,"First-Line Supervisors of Helpers, Laborers, and Material Movers, Hand",NA,1,3.5,125.26
+Expo Center,Land Pro,May,NA,Male,White,Craft Workers,"Helpers, Construction Trades, All Other",47-3019,1,12.5,309.37
+Expo Center,Land Pro,May,NA,Male,White,Craft Workers,"Helpers, Construction Trades, All Other",47-3019,1,9,241.32
+Expo Center,Land Pro,May,NA,Male,White,Craft Workers,"Helpers, Construction Trades, All Other",47-3019,1,9.5,253.69
+Expo Center,Land Pro,May,NA,Male,White,Executives,Chief Executives,NA,1,28,NA
+Expo Center,Land Pro,May,NA,Male,White,Administrative,"Office and Administrative Support Workers, All Other",43-9199,1,0,0
+Expo Center,Land Pro,May,NA,Male,White,Laborers,Excavating and Loading Machine and Dragline Operators,53-7032,1,17.5,1057.53
+Expo Center,Land Pro,May,NA,Male,White,Craft Workers,"Helpers, Construction Trades, All Other",37-3011,8,282,12542.42
+Expo Center,Lupini Construction,May,2018-08-03,Male,White,Laborers,"Construction and Related Workers, All Other",NA,6,342,11823.41
+Expo Center,Lupini Construction,May,2018-08-30,Male,White,Laborers,"Construction and Related Workers, All Other",NA,3,345,11970.35
+Expo Center,Lupini Construction,May,2018-07-25,Male,White,Laborers,"Construction and Related Workers, All Other",NA,2,13,444.08
+Expo Center,Martin-Zombek,May,2018-06-06,Male,White,Laborers,"Painters, Construction and Maintenance",47-2141,5,536,14879.56
+Expo Center,Martin-Zombek,May,2018-06-06,Male,White,Laborers,Drywall and Ceiling Tile Installers,47-2081,59,9000.73,266114.75
+Expo Center,Martin-Zombek,May,2018-07-06,Male,White,Laborers,"Painters, Construction and Maintenance",47-2141,4,463.75,11986.23
+Expo Center,Martin-Zombek,May,2018-07-06,Male,White,Laborers,Drywall and Ceiling Tile Installers,47-2081,45,6641.25,190237.51
+Expo Center,Martin-Zombek,May,2018-05-03,Male,White,Laborers,Drywall and Ceiling Tile Installers,47-2081,36,3063.5,89030.59
+Expo Center,Martin-Zombek,May,2018-08-04,Male,White,Laborers,"Painters, Construction and Maintenance",47-2141,6,770.44,21334.7
+Expo Center,Martin-Zombek,May,2018-08-04,Male,White,Laborers,Drywall and Ceiling Tile Installers,47-2081,43,5256.41,154961.66
+Expo Center,Martin-Zombek,May,2018-09-08,Male,White,Laborers,"Painters, Construction and Maintenance",47-2141,5,247.2,5286.48
+Expo Center,Martin-Zombek,May,2018-09-08,Male,White,Laborers,Drywall and Ceiling Tile Installers,47-2081,23,1641.4,47995.81
+Expo Center,Northern Stud,May,2018-06-07,Male,White,Craft Workers,"Helpers, Construction Trades, All Other",47-3019,2,18,551
+Expo Center,Pompey Construction,May,2018-03-16,Male,White,Craft Workers,Construction Laborers,NA,6,491,12212
+Expo Center,Pompey Construction,May,2018-03-16,Male,White,Craft Workers,Construction Laborers,NA,3,324,8167.5
+Expo Center,Pompey Construction,May,2018-03-16,Male,White,Craft Workers,Construction Laborers,NA,3,267,7821.97
+Expo Center,Pompey Construction,May,2018-08-02,Male,White,Craft Workers,Construction Laborers,47-2061,2,253,7017
+Expo Center,Pompey Construction,May,2018-08-02,Male,White,Laborers,Operating Engineers and Other Construction Equipment Operators,47-2073,2,245,9643.119999999999
+Expo Center,Pompey Construction,May,2018-09-05,Male,White,Craft Workers,Construction Laborers,47-2061,4,539,14701.53
+Expo Center,Pompey Construction,May,2018-09-05,Male,White,Laborers,Operating Engineers and Other Construction Equipment Operators,47-2073,3,351.5,14380.37
+Expo Center,Pompey Construction,May,2018-09-05,Male,White,Laborers,Carpenters,47-2031,3,339,9629.83
+Expo Center,Pompey Construction,May,2018-03-16,Male,White,Craft Workers,Construction Laborers,NA,6,448,11616
+Expo Center,Ravi Engineering,May,2018-04-27,Male,White,Professionals,Surveyors,17-1022,2,31,NA
+Expo Center,Ravi Engineering,May,2018-07-21,Male,White,Professionals,Surveyors,17-1022,2,16,NA
+Expo Center,Ravi Engineering,May,2017-12-30,Male,White,Professionals,Surveyors,17-1022,2,46,NA
+Expo Center,Ridley Electric,May,2018-03-06,Male,White,Laborers,Electricians,47-2111,7,617,23848.18
+Expo Center,Ridley Electric,May,2018-04-04,Male,White,Laborers,Electricians,47-2111,7,666,24558.29
+Expo Center,Ridley Electric,May,2018-05-02,Male,White,Laborers,Electricians,47-2111,10,1267,48383
+Expo Center,Ridley Electric,May,2018-07-10,Male,White,Laborers,Electricians,47-2111,21,3717.5,152372.31
+Expo Center,Ridley Electric,May,2018-08-07,Male,White,Laborers,Electricians,47-2111,34,5467,235346
+Expo Center,Ridley Electric,May,2018-02-08,Male,White,Laborers,Electricians,47-2111,9,752,30331.68
+Expo Center,Robert Law,May,2018-08-28,Male,White,Laborers,"Construction and Related Workers, All Other",47-4099,5,75,2407.78
+Expo Center,Robert Law,May,2018-08-28,Male,White,Laborers,Excavating and Loading Machine and Dragline Operators,53-7032,2,18,663.12
+Expo Center,Rommel Fence,May,2018-03-09,Male,White,Craft Workers,"Helpers, Construction Trades, All Other",47-3019,5,54,1399.93
+Expo Center,Rommel Fence,May,2018-03-09,Male,White,Laborers,"Construction and Related Workers, All Other",47-4099,1,25,739.5
+Expo Center,SRI Fire Sprinkler,May,2018-06-06,Male,White,Laborers,"Plumbers, Pipefitters, and Steamfitters",(47-2152),4,414,14590.56
+Expo Center,SRI Fire Sprinkler,May,2018-06-06,Male,White,Laborers,"Plumbers, Pipefitters, and Steamfitters",(47-2152),2,118,4457.38
+Expo Center,SRI Fire Sprinkler,May,2018-05-04,Male,White,Laborers,"Plumbers, Pipefitters, and Steamfitters",NA,9,603,20106.29
+Expo Center,SRI Fire Sprinkler,May,2018-06-06,Male,White,Laborers,"Plumbers, Pipefitters, and Steamfitters",(47-2152),7,882,28236.22
+Expo Center,Standard Insulating,May,2018-07-07,Male,White,Laborers,Carpenters,47-2031,4,303,15405.62
+Expo Center,Standard Insulating,May,2018-07-07,Male,White,Laborers,Carpenters,47-2031,2,16,731.2
+Expo Center,Standard Insulating,May,2018-07-21,Male,White,Laborers,Carpenters,47-2031,3,263.67,12456.64
+Expo Center,Steve General,May,2018-07-07,Male,White,Laborers,Glaziers,NA,10,1836,56057.98
+Expo Center,Steve General,May,2018-07-07,Male,White,Laborers,Structural Iron and Steel Workers,47-2221,7,1204,39979.95
+Expo Center,Steve General,May,2018-07-07,Male,White,Laborers,Glaziers,NA,11,1721,49429.25
+Expo Center,Steve General,May,2018-07-07,Male,White,Laborers,Structural Iron and Steel Workers,47-2221,6,593.5,20171.76
+Expo Center,Structural Services,May,2018-03-31,Male,White,Craft Workers,Construction Laborers,47-2061,9,1798.5,54422.33
+Expo Center,Structural Services,May,2018-03-31,Male,White,Laborers,Operating Engineers and Other Construction Equipment Operators,47-2073,1,204.5,8500.83
+Expo Center,Structural Services,May,2018-03-31,Male,White,Laborers,Carpenters,47-2031,16,2685,86877.34
+Expo Center,Structural Services,May,2018-02-10,Male,White,Craft Workers,Construction Laborers,47-2061,3,236,7840.48
+Expo Center,Structural Services,May,2018-02-10,Male,White,Laborers,Operating Engineers and Other Construction Equipment Operators,47-2073,2,48,1768
+Expo Center,Structural Services,May,2018-07-21,Male,White,Craft Workers,Construction Laborers,47-2061,4,639,20782.53
+Expo Center,Structural Services,May,2018-07-21,Male,White,Laborers,Operating Engineers and Other Construction Equipment Operators,47-2073,3,363.5,14487.33
+Expo Center,Structural Services,May,2018-08-28,Male,White,Craft Workers,Construction Laborers,47-2061,4,206,5779.82
+Expo Center,Structural Services,May,2018-08-28,Male,White,Laborers,Carpenters,47-2031,13,907.5,25721.25
+Expo Center,Structural Services,May,2018-07-07,Male,White,Craft Workers,Construction Laborers,47-2061,1,70,1694
+Expo Center,Structural Services,May,2018-07-07,Male,White,Laborers,Carpenters,47-2031,4,363,10069.75
+Expo Center,Structural Services,May,2018-07-07,Male,White,Laborers,Brickmasons and Blockmasons,47-2021,1,26,862.16
+Expo Center,Structural Services,May,2018-07-21,Male,White,Craft Workers,Construction Laborers,47-2061,3,195.5,5419.58
+Expo Center,Structural Services,May,2018-07-21,Male,White,Laborers,Carpenters,47-2031,13,942.5,30340.17
+Expo Center,Structural Services,May,2018-08-28,Male,White,Craft Workers,Construction Laborers,47-2061,5,947,32966.79
+Expo Center,Structural Services,May,2018-08-28,Male,White,Laborers,Operating Engineers and Other Construction Equipment Operators,47-2073,4,548.5,23617.57
+Expo Center,Structural Services,May,NA,Male,White,Craft Workers,Construction Laborers,47-2061,4,632,20667.44
+Expo Center,Structural Services,May,NA,Male,White,Laborers,Operating Engineers and Other Construction Equipment Operators,47-2073,2,352,13041.36
+Expo Center,Christina Steel,May,2018-06-08,Male,White,Laborers,Structural Iron and Steel Workers,47-2221,10,831,25465.5
+Expo Center,Christina Steel,May,2018-06-08,Male,White,Laborers,First-Line Supervisors of Construction Trades and Extraction Workers,47-1011,4,332,11329
+Expo Center,Christina Steel,May,2018-06-08,Male,White,Laborers,Crane and Tower Operators,53-7021,4,217,8159.64
+Expo Center,Titan Roofing,May,2018-04-29,Male,White,Laborers,Roofers,47-2181,17,836.5,22308.34
+Expo Center,Titan Roofing,May,2018-07-03,Male,White,Laborers,Roofers,47-2181,18,2057.5,59518
+Expo Center,Titan Roofing,May,2018-08-28,Male,White,Craft Workers,Helpers--Roofers,47-2181,16,2648.5,72565.1
+Expo Center,Titan Roofing,May,2018-08-28,Male,White,Laborers,Sheet Metal Workers,47-2211,2,84,2536.8
+Expo Center,Titan Roofing,May,2018-09-01,Male,White,Laborers,Roofers,47-2181,11,708,22921.87
+Expo Center,Titan Roofing,May,2018-09-01,Male,White,Laborers,Sheet Metal Workers,47-2211,2,111,4024.08
+Expo Center,Titan Roofing,May,2018-04-01,Male,White,Laborers,Roofers,47-2181,2,4,112.78
+Expo Center,Titan Steel,May,2018-08-03,Male,White,Laborers,Structural Iron and Steel Workers,47-2221,2,186,5952
+Expo Center,Titan Steel,May,2018-08-07,Male,White,Laborers,Structural Iron and Steel Workers,47-2221,5,344,10096
+Expo Center,Titan Steel,May,2018-09-12,Male,White,Laborers,Structural Iron and Steel Workers,47-2221,7,405,12598.5
+Expo Center,Titan Steel,May,2018-08-03,Male,White,Laborers,Structural Iron and Steel Workers,47-2221,2,16,512
+Expo Center,Weydman Electric,May,2018-08-29,Male,White,Laborers,Electricians,47-2111,3,373.5,15160
+Expo Center,XCL Construction,May,2018-06-02,Male,White,Laborers,Carpenters,NA,5,741,NA
+Expo Center,XCL Construction,May,2018-06-02,Male,White,Laborers,First-Line Supervisors of Construction Trades and Extraction Workers,47-1011,1,64,NA
+Expo Center,XCL Construction,May,2018-06-30,Male,White,Laborers,Carpenters,NA,2,266,NA
+Expo Center,XCL Construction,May,2018-06-30,Male,White,Laborers,First-Line Supervisors of Construction Trades and Extraction Workers,47-1011,1,134,NA
+Expo Center,XCL Construction,May,2018-08-02,Male,White,Laborers,Carpenters,NA,4,458,NA
+Expo Center,XCL Construction,May,2018-08-28,Male,White,Laborers,Carpenters,NA,5,457,NA
+Expo Center,XCL Construction,May,2018-05-01,Male,White,Laborers,Carpenters,NA,3,374,NA
+Expo Center,XCL Construction,May,2018-05-01,Male,White,Laborers,First-Line Supervisors of Construction Trades and Extraction Workers,47-1011,1,101,NA
+Expo Center,Casler Masonry,May,2018-07-06,Male,White,Laborers,First-Line Supervisors of Construction Trades and Extraction Workers,47-1011,2,123,6225
+Expo Center,Casler Masonry,May,2018-07-06,Male,White,Laborers,Brickmasons and Blockmasons,47-2021,13,2091.5,70053.98
+Expo Center,Casler Masonry,May,2018-07-06,Male,White,Laborers,Operating Engineers and Other Construction Equipment Operators,47-2073,2,181,8232
+Expo Center,Casler Masonry,May,2018-07-06,Male,White,Laborers,Carpenters,47-2031,5,77,2744
+Expo Center,Casler Masonry,May,2018-07-06,Male,White,Craft Workers,Construction Laborers,47-2061,12,782.5,19868.09
+Expo Center,Casler Masonry,May,2018-05-04,Male,White,Laborers,First-Line Supervisors of Construction Trades and Extraction Workers,47-1011,2,160,7400
+Expo Center,Casler Masonry,May,2018-05-04,Male,White,Laborers,Brickmasons and Blockmasons,47-2021,4,408,13529.28
+Expo Center,Casler Masonry,May,2018-05-04,Male,White,Laborers,Operating Engineers and Other Construction Equipment Operators,47-2073,1,78,3402
+Expo Center,Casler Masonry,May,2018-05-04,Male,White,Laborers,Carpenters,47-2031,3,21.5,791
+Expo Center,Casler Masonry,May,2018-05-04,Male,White,Craft Workers,Construction Laborers,47-2061,4,390.5,9552.95
+Expo Center,Pompey Construction,May,2018-07-06,Male,White,Craft Workers,Construction Laborers,47-2061,2,220,6089
+Expo Center,Pompey Construction,May,2018-07-06,Male,White,Laborers,Operating Engineers and Other Construction Equipment Operators,47-2073,1,184,7368
+Expo Center,Pompey Construction,May,2018-06-01,Male,White,Craft Workers,Construction Laborers,47-2061,1,250,6655
+Expo Center,Pompey Construction,May,2018-06-01,Male,White,Laborers,Operating Engineers and Other Construction Equipment Operators,47-2073,1,250,10131
+Expo Center,Ridley Electric,May,2018-06-13,Male,White,Laborers,Electricians,47-2111,26,3859,150332
+Expo Center,All Ways Concrete,May,2018-04-11,Male,White,Laborers,Operating Engineers and Other Construction Equipment Operators,47-2073,1,6,364.38
