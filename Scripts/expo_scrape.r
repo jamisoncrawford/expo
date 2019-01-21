@@ -413,6 +413,8 @@ for (i in 1:nrow(master)){
 
 rm(i, j, new, old)
 
+colnames(master)[3] <- "month"
+
 
 # WRITE TO CSV
 
