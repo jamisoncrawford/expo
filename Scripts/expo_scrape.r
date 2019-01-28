@@ -95,9 +95,15 @@ rm(groups)
 
 # CORRECTIONS
 
-index <- which(workers$h == "Black/African American")     # One row 2 cells off
+index_min <- which(workers$h == "Black/African American")     # Corrections: "Northern Stud"
+index_max <- index_min + 6L
 
-workers[index, 4:28] <- workers[18, 4:28]                 # Correction
+workers[index_min:index_max, 6:33] <- NA
+
+index_min <- which(workers$c == "Robert H. Law, Inc.")
+index_max <- index_min + 6L 
+
+workers[index_min:index_max, 2:32] <- workers[index_min:index_max, 3:33]
 
 
 # RESTRUCTURE DATA: COMPANY "NAME"
@@ -124,126 +130,9 @@ workers <- workers %>%
          project = "Expo Center") %>%
   select(project, name, ending, a:G)
 
-months <- c("May", "June", "July", "August", "April",
-            "April", "January",
-            "June", "July", "May",
-            "May", "July", "August", "March",
-            "April", "March", 
-            "April",
-            "May",
-            "April", "June", "July", "August", "March",     # Rosetti
-            "July", "May", "June", "April",
-            "February", "March", "April", "May", "June", "July", "August", "January",
-            "August", "July",
-            "December", "January",
-            "June",
-            "July",
-            "May", "March", "April", "July", "August", "February", "June", "January",
-            "June", "July", "May",
-            "June", "July", "August", "May",                # KSP Painting
-            "July", "August", "June",
-            "July", "July", "August", "August", "June", "June",
-            "February", "April", "April", "July", "July", "August", "May", "June", "January", 
-            "March",                                        # Northern Stud
-            "February", "March", "April", "July", "August", "December", "January",
-            "March", "March", "April", "April", "December", "December", "January", "January",
-            "February", "March", "March", "March", "April", "June", "July", "January",
-            "February", "May",                              # Robert H. Law
-            "January",
-            "March", 
-            "July", "August", "April", "May",
-            "May", "April", "June",
-            "June", "May",                                  # Steve General
-            "February", "April", "December", "June", "July", "May", "June", "July", "May", "January",
-            "March",
-            "May",
-            "April", "June", "July", "July", "March",
-            "May", "June", "August", "April",               # Titan Steel
-            "May",
-            "May", "June", "July", "August", "April", 
-            "June", "April",
-            "June", "May",
-            "May",
-            "March")
-
-for (i in 1:nrow(workers)){
-  if (workers$a[i] == "EEO 1 Job Categories" & !is.na(workers$a[i])){
-    workers$ending[i] <- months[i]
-  }
-}
-
-workers[1, "ending"] <- "Ending"
-
-workers$ending <- zoo::na.locf(workers$ending)
-
-rm(i, months)
-
-
-# RESTRUCTURE DATA: "MONTH"; ADDING "PROJECT"
-
-workers[504, "q"] <- workers[504]                            # Reposition one-offs
-workers[504, "m"] <- NA
-
-workers[650, "q"] <- workers[650, "r"]
-workers[650, "r"] <- NA
-
-index <- which(!is.na(workers$x) & workers$q == "Date:")
-workers[index, "v"] <- workers[index, "x"]
-workers[index, "x"] <- NA
-
-index <- which(!is.na(workers$w) & workers$q == "Date:")
-workers[index, "v"] <- workers[index, "w"]
-workers[index, "w"] <- NA
-
 workers <- workers %>%
   mutate(date = NA) %>%
-  select(project:ending, date, a:G)                          # Initialize "date" variable
-
-index <- which(workers$a == "Company Address" & is.na(workers$q))
-workers[index, "v"] <- workers[index, "p"]
-workers[index, "q"] <- "Date:"
-workers[index, "p"] <- NA
-
-for (i in 1:nrow(workers)){
-  if (workers$q[i] == "Date:" & !is.na(workers$q[i]) & nchar(workers$v[i]) == 5 & !is.na(workers$v[i])){
-    workers$date[i] <- workers$v[i]
-  }
-}
-
-for (i in seq_along(workers$v)){
-  if (nchar(workers$v[i]) <= 5 & !is.na(workers$v[i])){
-    workers$v[i] <- NA
-  }
-}
-
-workers$v <- mdy(workers$v)
-workers$date <- as.Date(as.numeric(workers$date))
-
-
-for (i in seq_along(workers$date)){
-  if (!is.na(workers$date[i])){
-    workers$date[i] <- as.Date(workers$date[i])
-  }
-}
-
-index <- which(!is.na(workers$v))
-workers[index, "date"] <- workers[index, "v"]
-
-for (i in 1:nrow(workers)){
-  if (!is.na(workers$date[i]) & year(workers$date[i]) == 2088){
-    year(workers$date[i]) <- 2018
-  } else if (!is.na(workers$date[i]) & year(workers$date[i]) == 2087){
-    year(workers$date[i]) <- 2017
-  } else if (workers$a[i] == "Company Address" & !is.na(workers$a[i]) & is.na(workers$date[i])){
-    workers$date[i] <- ymd("2000-01-01")
-  }
-}
-
-workers$date <- zoo::na.locf(workers$date)
-
-index <- which(workers$a == "Company Address")
-
-workers <- workers[-index, ]
+  select(project:ending, date, a:G)                          # Initialize "date" column (NA)
 
 
 # RESTRUCTURE: HEADER ROW(S)
@@ -251,6 +140,12 @@ workers <- workers[-index, ]
 index <- which(workers$a == "EEO 1 Job Categories")[-1]
 
 workers <- workers[-index, ]                                # Remove subheader rows
+
+index <- which(workers$a == "Company Address")
+workers <- workers[-index, ]                                # Remove address rows
+
+index <- which(is.na(workers$a))                           # Remove race/sex labels
+workers <- workers[-index, ]
 
 rm(index)
 
@@ -277,15 +172,15 @@ nativ$race <- races[5]
 
 rm(races)
 
-white_m <- white[, c(1:9, 10:12)]                            # Split by "sex" values
+white_m <- white[, c(1:12)]                                 # Split by "sex" values
 white_f <- white[, c(1:9, 13:15)]
-black_m <- black[, c(1:9, 10:12)]
+black_m <- black[, c(1:12)]
 black_f <- black[, c(1:9, 13:15)]
-hispn_m <- hispn[, c(1:9, 10:12)]
+hispn_m <- hispn[, c(1:12)]
 hispn_f <- hispn[, c(1:9, 13:15)]
-asian_m <- asian[, c(1:9, 10:12)]
+asian_m <- asian[, c(1:12)]
 asian_f <- asian[, c(1:9, 13:15)]
-nativ_m <- nativ[, c(1:9, 10:12)]
+nativ_m <- nativ[, c(1:12)]
 nativ_f <- nativ[, c(1:9, 13:15)]
 
 rm(white, black, hispn, asian, nativ)
@@ -302,7 +197,7 @@ hispn_f$sex <- "Female"
 asian_f$sex <- "Female"
 nativ_f$sex <- "Female"
 
-rm(master, workers, i)
+rm(master, workers, i, index_min, index_max)
 
                                                             # Create common names; merge
 
@@ -318,7 +213,7 @@ names(hispn_f)[7:12] <- c("category", "title", "soc", "employees", "hours", "wag
 names(asian_f)[7:12] <- c("category", "title", "soc", "employees", "hours", "wages")
 names(nativ_f)[7:12] <- c("category", "title", "soc", "employees", "hours", "wages")
 
-master <- do.call("bind_rows", mget(ls())) 
+master <- do.call("bind_rows", mget(ls()))
 
 rm(list = setdiff(ls(), "master"))
 
@@ -326,10 +221,9 @@ master <- master %>%
   filter(category != "EEO 1 Job Categories",
          employees != "Male|Female")                        # Filter obsolete rows
 
-index <- which(is.na(master$title))
-master <- master[-index, ]
-
-rm(index)
+master <- master %>%
+  filter(!is.na(employees),
+         employees != 0)
 
 
 # WRITE ROUGH OUTPUT
@@ -355,12 +249,6 @@ master[master$race == "Native American/Alaskan Native", "race"] <- "Native"
 master[master$race == "Asian/Native Hawaiian or Other Pacific Islander", "race"] <- "Asian"
 
 
-# COLLAPSE ROWS
-
-index <- which(master$employees == 0)      # Eliminate periods without 1+ "employees"
-master <- master[-index, ]
-
-
 # ELIMINATE DUPLICATES
 
 index <- which(duplicated(x = master))
@@ -377,14 +265,6 @@ master[master$category == cats[3], "category"] <- "Administrative"
 master[master$category == cats[4], "category"] <- "Executives"
 
 rm(cats, index)
-
-
-# REFORMAT DATE: "ENDING"
-
-index <- which(master$date == "2000-01-01")
-master[index, "date"] <- NA; rm(index)
-
-master <- rename(master, ending = date)
 
 
 # REFORMAT COMPANY NAMES: "NAME"
@@ -413,7 +293,7 @@ for (i in 1:nrow(master)){
 
 rm(i, j, new, old)
 
-colnames(master)[3] <- "month"
+names(master)[4] <- "month"
 
 
 # WRITE TO CSV
